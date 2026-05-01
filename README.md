@@ -50,19 +50,6 @@ A **predictive ML pipeline for UK Awaab's Law compliance** with **Believe Housin
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivankushal55&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivankushal55&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivankushal55&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 📄 Publication
 
 **Cardiovascular Disease Risk Prediction Using Machine Learning** — *ICGCP-2024*
@@ -88,8 +75,4 @@ I am actively seeking **graduate and internship roles in the UK** in:
 
 <p align="center">
   <em>Let's build something meaningful — feel free to reach out!</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivankushal55&style=flat-square&color=0A66C2" alt="Profile views"/>
 </p>
